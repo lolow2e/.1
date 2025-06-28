@@ -204,7 +204,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  <img src="https://i.imgur.com/Ocz3kmJ.gif" width="300" alt="Goodbye Animation">
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/cd.png?raw=true" width="300" alt="Goodbye Animation">
   
   <h3>"See you in the next commit!"</h3>
 </div> 
