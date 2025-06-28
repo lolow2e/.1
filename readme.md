@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/lolow2e/lolow2e/blob/main/public/my.gif?raw=true" width="100%" alt="Background Image">
+
 
 # 💫 3vil | Full-Stack Developer <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40">
 
@@ -178,17 +178,17 @@ I'm a passionate developer creating digital experiences through code. Like an an
 
 ## 🔥 GitHub Stats <img src="https://i.imgur.com/mFSBO6r.gif" width="30">
 
-<div align="center" style="background-image: url('https://github.com/lolow2e/lolow2e/blob/main/public/my.gif?raw=true'); background-size: cover; background-position: center; padding: 20px; border-radius: 15px;">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D111780&title_color=ff3860&text_color=ffffff&icon_color=58a6ff&border_radius=10" alt="GitHub Stats" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff3860&border_radius=10" alt="GitHub Stats" width="100%" />
   </a>
   <br><br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=black-ice&hide_border=true&background=0D111780&stroke=ff3860&fire=ff3860&ring=58a6ff&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=black-ice&hide_border=true&background=0D1117&stroke=ff3860&fire=ff3860&ring=58a6ff&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" width="100%" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3vil&layout=compact&theme=radical&hide_border=true&bg_color=0D111780&title_color=ff3860&text_color=ffffff&border_radius=10" alt="Top Languages" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3vil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_radius=10" alt="Top Languages" width="100%" />
   </a>
 </div>
 
