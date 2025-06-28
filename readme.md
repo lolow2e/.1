@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/77.png?raw=true" alt="3vil | Full-Stack Developer" width="400">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/31295d7b4d31d3f492a93b0a774e001584d80fbb/public/1v.svg" alt="3vil | Full-Stack Developer" width="400">
   <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40" style="margin-left: -10px;">
 </div>
 
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g2.png?raw=true" alt="Anime Banner" width="100%"/>
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/77.png?raw=true" alt="Anime Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -61,6 +61,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+### DevOps & Tools
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </div>
 
@@ -119,5 +124,5 @@
   
   <img src="https://github.com/lolow2e/lolow2e/blob/main/public/cd.png?raw=true" width="300" alt="Goodbye Animation"/>
   
-  <h3>"See you"</h3>
+  <h3>"See you in the next commit!"</h3>
 </div> 
