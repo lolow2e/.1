@@ -1,10 +1,13 @@
 <div align="center">
 
-# 💫 3vil | Full-Stack Developer <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/31295d7b4d31d3f492a93b0a774e001584d80fbb/public/1v.svg" alt="3vil | Full-Stack Developer" width="400">
+  <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40" style="margin-left: -10px;">
+</div>
 
 <img src="https://github.com/lolow2e/3vil/blob/main/public/123.jpg?raw=true" alt="Anime Coding Gif" width="450"/>
 
-<img src="https://i.imgur.com/DBGzSNI.png" width="600" alt="Anime Quote"/>
+
 
 </div>
 
