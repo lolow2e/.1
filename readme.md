@@ -16,9 +16,15 @@
   <img src="https://i.imgur.com/67uIzG3.png" alt="Anime Banner" width="100%"/>
 </div>
 
-## 🚀 About Me <img src="https://i.imgur.com/MFYBg0h.gif" width="35">
+## <img src="https://i.imgur.com/MFYBg0h.gif" width="35"> About Me
 
-> _"Programming isn't about what you know; it's about what you can figure out."_
+
+
+<div style="padding: 15px; border-left: 4px solid #FFD700; margin: 20px 0;">
+  <blockquote>
+    <i>"Programming isn't about what you know; it's about what you can figure out."</i>
+  </blockquote>
+</div>
 
 I'm a passionate developer creating digital experiences through code. Like an anime protagonist, I'm constantly evolving my skills, taking on new challenges, and pushing the boundaries of what's possible in web development.
 
@@ -26,7 +32,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## 💻 Tech Stack Power Levels <img src="https://i.imgur.com/o3XWBTZ.gif" width="35">
+## <img src="https://i.imgur.com/o3XWBTZ.gif" width="35"> Tech Stack Power Levels
 
 <div align="center">
   <table>
@@ -113,7 +119,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## 💻 Tech Stack <img src="https://i.imgur.com/waxVImv.gif" width="30">
+## <img src="https://i.imgur.com/waxVImv.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -145,7 +151,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## 🎮 Projects <img src="https://i.imgur.com/Ib8FKe6.gif" width="35">
+## <img src="https://i.imgur.com/Ib8FKe6.gif" width="35"> Projects
 
 <table>
   <tr>
@@ -194,7 +200,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## 🔥 GitHub Stats <img src="https://i.imgur.com/mFSBO6r.gif" width="30">
+## <img src="https://i.imgur.com/mFSBO6r.gif" width="30"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -205,7 +211,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## 📫 Contact Me <img src="https://i.imgur.com/0jEbsbc.gif" width="30">
+## <img src="https://i.imgur.com/0jEbsbc.gif" width="30"> Contact Me
 
 <div align="center">
 
