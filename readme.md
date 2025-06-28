@@ -218,14 +218,14 @@ I'm a passionate developer creating digital experiences through code. Like an an
 
 [![Discord](https://img.shields.io/badge/Discord-@3vil3-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/3vil3)
 [![Telegram](https://img.shields.io/badge/Telegram-@Tg__3vil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tg_3vil)
-[![GitHub](https://img.shields.io/badge/GitHub-3vil-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3vil)
+[![GitHub](https://img.shields.io/badge/GitHub-3vil-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lolow2e)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=3vil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lolow2e&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
   <sub>📅 Last updated: July 2024</sub>
   
