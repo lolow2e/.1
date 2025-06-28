@@ -1,4 +1,4 @@
-<div style="background-image: url('ВСТАВЬТЕ_ССЫЛКУ_НА_ВАШЕ_ИЗОБРАЖЕНИЕ_ЗДЕСЬ'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; padding: 20px; border-radius: 10px;">
+<div style="background-image: url('https://github.com/lolow2e/lolow2e/blob/main/public/my.gif?raw=true'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; padding: 20px; border-radius: 10px;">
 
 <div align="center">
 
