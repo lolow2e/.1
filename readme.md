@@ -1,3 +1,5 @@
+<div style="background-image: url('ВСТАВЬТЕ_ССЫЛКУ_НА_ВАШЕ_ИЗОБРАЖЕНИЕ_ЗДЕСЬ'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; padding: 20px; border-radius: 10px;">
+
 <div align="center">
 
 # 💫 3vil | Full-Stack Developer <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40">
@@ -217,9 +219,8 @@ I'm a passionate developer creating digital experiences through code. Like an an
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-3vil@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3vil@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3vil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-@3vil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/3vil)
+[![Discord](https://img.shields.io/badge/Discord-@3vil3-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/3vil3)
+[![Telegram](https://img.shields.io/badge/Telegram-@Tg__3vil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tg_3vil)
 [![GitHub](https://img.shields.io/badge/GitHub-3vil-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3vil)
 
 </div>
@@ -237,3 +238,5 @@ I'm a passionate developer creating digital experiences through code. Like an an
   
   <h3>"See you in the next commit!"</h3>
 </div> 
+
+</div>
