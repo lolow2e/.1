@@ -1,24 +1,30 @@
-<div align="center" style="border: 2px solid #FFD700; border-radius: 10px; padding: 15px; background-color: #FFFFF0;">
+<div align="center">
 
 # 💫 3vil | Full-Stack Developer <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40">
 
-<img src="https://github.com/lolow2e/3vil/blob/main/public/123.jpg?raw=true" alt="Anime Coding Gif" width="450" style="border: 3px solid #FFD700; border-radius: 8px;"/>
+<img src="https://github.com/lolow2e/3vil/blob/main/public/123.jpg?raw=true" alt="Anime Coding Gif" width="450"/>
 
-<img src="https://i.imgur.com/DBGzSNI.png" width="600" alt="Anime Quote" style="border: 3px solid #FFD700; border-radius: 8px; margin-top: 15px;"/>
+<img src="https://i.imgur.com/DBGzSNI.png" width="600" alt="Anime Quote"/>
 
 </div>
 
-<div align="center" style="border-top: 3px solid #FFD700; border-bottom: 3px solid #FFD700; margin: 20px 0; padding: 10px 0;">
-  <img src="https://i.imgur.com/67uIzG3.png" alt="Anime Banner" width="100%" style="border: 2px solid white; border-radius: 5px;"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" height="2" alt="Divider"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/67uIzG3.png" alt="Anime Banner" width="100%"/>
 </div>
 
 ## 🚀 About Me <img src="https://i.imgur.com/MFYBg0h.gif" width="35">
 
-<div style="border-left: 5px solid #FFD700; padding-left: 15px; margin: 10px 0;">
-> <i>"Programming isn't about what you know; it's about what you can figure out."</i>
-</div>
+> _"Programming isn't about what you know; it's about what you can figure out."_
 
 I'm a passionate developer creating digital experiences through code. Like an anime protagonist, I'm constantly evolving my skills, taking on new challenges, and pushing the boundaries of what's possible in web development.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
+</div>
 
 ## 💻 Tech Stack Power Levels <img src="https://i.imgur.com/o3XWBTZ.gif" width="35">
 
@@ -103,6 +109,10 @@ I'm a passionate developer creating digital experiences through code. Like an an
   </table>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
+</div>
+
 ## 💻 Tech Stack <img src="https://i.imgur.com/waxVImv.gif" width="30">
 
 <div align="center">
@@ -129,6 +139,10 @@ I'm a passionate developer creating digital experiences through code. Like an an
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
 ## 🎮 Projects <img src="https://i.imgur.com/Ib8FKe6.gif" width="35">
@@ -176,11 +190,19 @@ I'm a passionate developer creating digital experiences through code. Like an an
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
+</div>
+
 ## 🔥 GitHub Stats <img src="https://i.imgur.com/mFSBO6r.gif" width="30">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
 ## 📫 Contact Me <img src="https://i.imgur.com/0jEbsbc.gif" width="30">
@@ -193,16 +215,20 @@ I'm a passionate developer creating digital experiences through code. Like an an
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
+</div>
 
-<div align="center" style="border: 2px solid #FFD700; border-radius: 10px; padding: 15px; margin-top: 20px;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=lolow2e&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
   <sub>📅 Last updated: 28.06.2025</sub>
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="border-top: 2px solid white; border-bottom: 2px solid white; padding: 5px 0;"/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
+  </div>
   
-  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/cd.png?raw=true" width="300" alt="Goodbye Animation" style="border: 3px solid #FFD700; border-radius: 8px; margin-top: 10px;"/>
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/cd.png?raw=true" width="300" alt="Goodbye Animation"/>
   
-  <h3 style="border-bottom: 2px solid #FFD700; padding-bottom: 5px;">"See you in the next commit!"</h3>
+  <h3>"See you in the next commit!"</h3>
 </div> 
