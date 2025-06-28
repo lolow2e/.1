@@ -176,11 +176,88 @@ I'm a passionate developer creating digital experiences through code. Like an an
   </tr>
 </table>
 
-## 🔥 GitHub Stats <img src="https://i.imgur.com/mFSBO6r.gif" width="30">
+## 🔥 Моя Статистика <img src="https://i.imgur.com/mFSBO6r.gif" width="30">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌟 Активность</h3>
+        <img src="https://i.imgur.com/tYCnJ9F.gif" width="50px" height="50px">
+        <p align="center">
+          <b>Коммитов в этом году:</b> 752<br>
+          <b>Завершенных проектов:</b> 28<br>
+          <b>Вклад в Open Source:</b> 115 коммитов<br>
+          <b>Часов кода в неделю:</b> 56
+        </p>
+        <div align="center">
+          <img src="https://i.imgur.com/jzRXWYY.png" width="250px" alt="Activity Graph">
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💻 Навыки</h3>
+        <div align="center">
+          <table width="100%">
+            <tr>
+              <td>Frontend</td>
+              <td><img src="https://i.imgur.com/AMcY1ZW.png" width="150px" height="20px"></td>
+              <td>95%</td>
+            </tr>
+            <tr>
+              <td>Backend</td>
+              <td><img src="https://i.imgur.com/HjsNXKG.png" width="140px" height="20px"></td>
+              <td>90%</td>
+            </tr>
+            <tr>
+              <td>DevOps</td>
+              <td><img src="https://i.imgur.com/lZTtipD.png" width="120px" height="20px"></td>
+              <td>80%</td>
+            </tr>
+            <tr>
+              <td>UI/UX</td>
+              <td><img src="https://i.imgur.com/HjsNXKG.png" width="130px" height="20px"></td>
+              <td>85%</td>
+            </tr>
+            <tr>
+              <td>Mobile</td>
+              <td><img src="https://i.imgur.com/KXiozPX.png" width="100px" height="20px"></td>
+              <td>70%</td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="center">
+          <h3>📊 Активность по языкам</h3>
+          <img src="https://i.imgur.com/XWRMkH0.png" width="60%">
+          <table width="80%">
+            <tr>
+              <td width="20%"><img src="https://i.imgur.com/gxeRmT6.png" width="20px"> TypeScript</td>
+              <td><img src="https://i.imgur.com/AMcY1ZW.png" width="150px" height="10px"></td>
+              <td width="10%">45%</td>
+            </tr>
+            <tr>
+              <td><img src="https://i.imgur.com/wvDwPix.png" width="20px"> React</td>
+              <td><img src="https://i.imgur.com/HjsNXKG.png" width="130px" height="10px"></td>
+              <td>35%</td>
+            </tr>
+            <tr>
+              <td><img src="https://i.imgur.com/b6hOdyF.png" width="20px"> Node.js</td>
+              <td><img src="https://i.imgur.com/lZTtipD.png" width="80px" height="10px"></td>
+              <td>15%</td>
+            </tr>
+            <tr>
+              <td>Другие</td>
+              <td><img src="https://i.imgur.com/KXiozPX.png" width="30px" height="10px"></td>
+              <td>5%</td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌟 Battle Stats <img src="https://i.imgur.com/uz1yQnG.gif" width="35">
