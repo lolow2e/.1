@@ -34,7 +34,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g4.png?raw=true" alt="Tech Stack Power Levels" width="100%"/>
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g4_1.png?raw=true" alt="Tech Stack Power Levels" width="100%"/>
 </div>
 
 <div align="center">
