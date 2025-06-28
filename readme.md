@@ -183,34 +183,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
-## 🌟 Battle Stats <img src="https://i.imgur.com/uz1yQnG.gif" width="35">
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img width="400px" align="left" src="https://i.imgur.com/kJJisPj.png" />
-    </td>
-    <td>
-      <h3>Developer Level: 99</h3>
-      <ul>
-        <li><b>⭐ Coding Speed:</b> 98/100</li>
-        <li><b>⚡ Problem Solving:</b> 95/100</li>
-        <li><b>🔥 Bug Slaying:</b> 99/100</li>
-        <li><b>🛡️ Code Quality:</b> 97/100</li>
-        <li><b>⚔️ Framework Mastery:</b> 96/100</li>
-        <li><b>🧙‍♂️ Debugging:</b> 97/100</li>
-        <li><b>🏹 Deployment:</b> 92/100</li>
-      </ul>
-      <h3>Special Abilities:</h3>
-      <ul>
-        <li><b>🌟 Ultimate Move:</b> React Component Explosion</li>
-        <li><b>🔮 Secret Technique:</b> Midnight Code Refactoring</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
 
 ## 📫 Contact Me <img src="https://i.imgur.com/0jEbsbc.gif" width="30">
 
@@ -227,7 +200,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lolow2e&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
-  <sub>📅 Last updated: July 2024</sub>
+  <sub>📅 Last updated: 28.06.2025</sub>
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
