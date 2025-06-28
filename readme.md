@@ -119,5 +119,5 @@
   
   <img src="https://github.com/lolow2e/lolow2e/blob/main/public/cd.png?raw=true" width="300" alt="Goodbye Animation"/>
   
-  <h3>"See you in the next commit!"</h3>
+  <h3>"See you"</h3>
 </div> 
