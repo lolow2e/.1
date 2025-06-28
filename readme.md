@@ -114,8 +114,8 @@ My development philosophy is based on three principles:
 
 <div align="center" style="background: linear-gradient(135deg, #FFF9C4 0%, #FFEB3B 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
-[![Email](https://img.shields.io/badge/Email-3vil@example.com-FFCA28?style=for-the-badge&logo=gmail&logoColor=black)](mailto:3vil@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3vil-FFEB3B?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/)
+
+
 [![Telegram](https://img.shields.io/badge/Telegram-@3vil-FFC107?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/3vil)
 [![GitHub](https://img.shields.io/badge/GitHub-3vil-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/3vil)
 
