@@ -5,7 +5,7 @@
   <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40" style="margin-left: -10px;">
 </div>
 
-<img src="https://github.com/lolow2e/3vil/blob/main/public/123.jpg?raw=true" alt="Anime Coding Gif" width="450"/>
+
 
 
 
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/67uIzG3.png" alt="Anime Banner" width="100%"/>
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g2.png?raw=true" alt="Anime Banner" width="100%"/>
 </div>
 
 ## <img src="https://i.imgur.com/MFYBg0h.gif" width="35"> About Me
