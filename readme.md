@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## <img src="https://i.imgur.com/waxVImv.gif" width="30"> Tech Stack
+## <img src="https://github.com/lolow2e/lolow2e/blob/main/public/zero.png?raw=true" width="30"> Tech Stack
 
 <div align="center">
 
