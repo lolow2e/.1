@@ -9,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3vil@example.com)
 
+<img src="https://i.imgur.com/DBGzSNI.png" width="600" alt="Anime Quote">
+
 </div>
 
 <div align="center">
@@ -104,7 +106,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   </table>
 </div>
 
-## 💻 Tech Stack
+## 💻 Tech Stack <img src="https://i.imgur.com/waxVImv.gif" width="30">
 
 <div align="center">
 
@@ -132,14 +134,12 @@ I'm a passionate developer creating digital experiences through code. Like an an
 
 </div>
 
-
-
-## 🎯 Projects
+## 🎮 Projects <img src="https://i.imgur.com/Ib8FKe6.gif" width="35">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>StreamVibe</h3>
+      <h3><img src="https://i.imgur.com/Ni4uGsK.gif" width="25"> StreamVibe</h3>
       <img src="https://i.imgur.com/8wVMZ8J.png" width="100%" alt="StreamVibe Project"/>
       <p><strong>Movie and TV Series Streaming Platform</strong></p>
       <p>Modern platform for watching movies and TV series with personalized recommendations, interactive UI, and multi-device support.</p>
@@ -148,7 +148,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
       <a href="#"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>FinTrack</h3>
+      <h3><img src="https://i.imgur.com/qPuVnRi.gif" width="25"> FinTrack</h3>
       <img src="https://i.imgur.com/OhioXt4.png" width="100%" alt="FinTrack Project"/>
       <p><strong>Financial Management Application</strong></p>
       <p>Personal finance tracker with expense analytics, budgeting, and data visualization for making financial decisions.</p>
@@ -159,7 +159,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>TaskMaster</h3>
+      <h3><img src="https://i.imgur.com/22Rdgid.gif" width="25"> TaskMaster</h3>
       <img src="https://i.imgur.com/jpQYoXE.png" width="100%" alt="TaskMaster Project"/>
       <p><strong>Project Management System</strong></p>
       <p>Intuitive project management tool with team collaboration features, time tracking, and integration with popular services.</p>
@@ -168,7 +168,7 @@ I'm a passionate developer creating digital experiences through code. Like an an
       <a href="#"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>EcoStore</h3>
+      <h3><img src="https://i.imgur.com/gLgFCur.gif" width="25"> EcoStore</h3>
       <img src="https://i.imgur.com/N5tYBgK.png" width="100%" alt="EcoStore Project"/>
       <p><strong>Eco-friendly Products Online Store</strong></p>
       <p>Full-featured e-commerce website with shopping cart, payment processing, and product management system for selling eco-friendly products.</p>
@@ -179,16 +179,43 @@ I'm a passionate developer creating digital experiences through code. Like an an
   </tr>
 </table>
 
-
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats <img src="https://i.imgur.com/mFSBO6r.gif" width="30">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
+## 🌟 Battle Stats <img src="https://i.imgur.com/uz1yQnG.gif" width="35">
 
-## 📫 Contact Me
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img width="400px" align="left" src="https://i.imgur.com/kJJisPj.png" />
+    </td>
+    <td>
+      <h3>Developer Level: 99</h3>
+      <ul>
+        <li><b>⭐ Coding Speed:</b> 98/100</li>
+        <li><b>⚡ Problem Solving:</b> 95/100</li>
+        <li><b>🔥 Bug Slaying:</b> 99/100</li>
+        <li><b>🛡️ Code Quality:</b> 97/100</li>
+        <li><b>⚔️ Framework Mastery:</b> 96/100</li>
+        <li><b>🧙‍♂️ Debugging:</b> 97/100</li>
+        <li><b>🏹 Deployment:</b> 92/100</li>
+      </ul>
+      <h3>Special Abilities:</h3>
+      <ul>
+        <li><b>🌟 Ultimate Move:</b> React Component Explosion</li>
+        <li><b>🔮 Secret Technique:</b> Midnight Code Refactoring</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 📫 Contact Me <img src="https://i.imgur.com/0jEbsbc.gif" width="30">
 
 <div align="center">
 
@@ -205,4 +232,10 @@ I'm a passionate developer creating digital experiences through code. Like an an
   <img src="https://komarev.com/ghpvc/?username=3vil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
   <sub>📅 Last updated: July 2024</sub>
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <img src="https://i.imgur.com/Ocz3kmJ.gif" width="300" alt="Goodbye Animation">
+  
+  <h3>"See you in the next commit!"</h3>
 </div> 
