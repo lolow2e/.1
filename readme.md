@@ -1,6 +1,22 @@
 <div align="center">
 
-# 💫 3vil | Full-Stack Developer
+```
+                 .:.      .:. 
+     .:.:.:.:.:   :::..   ::: ..:.:.:.:.: 
+     .:.:.:.:.:   :::::. ::::: ..:.:.:.:.: 
+           ::.    :::::::::::.    .::
+           ::.    :::::::::::.    .::
+     ....:.:::....::.::::.:::......:::....... 
+       :::::::::::::::::::::::::::::::::
+          ::::::::::::::::::::::::::: 
+             :::::::::::::::::::::
+                :::::::::::::::
+                   :::::::::
+                      :::
+                       :
+```
+
+# 💫 <span style="text-shadow: 3px 3px 3px #5500ff;">3vil</span> | Full-Stack Developer
 
 <img src="https://i.imgur.com/YCw47Dm.gif" alt="Coding Gif" width="450"/>
 
@@ -15,7 +31,7 @@
 
 > _"Code is poetry written with logic."_
 
-I'm a passionate self-taught Full-Stack Developer with 5+ years of experience building high-performance web applications. I love solving complex problems with elegant and efficient code. I strive to create user interfaces that are not only functional but also visually appealing.
+I'm a passionate Full-Stack Developer with 5+ years of experience building high-performance web applications. I love solving complex problems with elegant and efficient code. I strive to create user interfaces that are not only functional but also visually appealing.
 
 My development philosophy is based on three principles:
 - 🧩 **Modularity** - creating components that are easy to maintain and scale
@@ -49,8 +65,6 @@ My development philosophy is based on three principles:
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </div>
-
-
 
 ## 🎯 Projects
 
@@ -97,14 +111,12 @@ My development philosophy is based on three principles:
   </tr>
 </table>
 
-
 ## 🔥 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
-
 
 ## 📫 Contact Me
 
