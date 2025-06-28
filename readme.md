@@ -87,11 +87,11 @@
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #ffe259 0%, #fff9e6 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=00000000&text_color=7a3f00&icon_color=ff8c00&title_color=7a3f00" alt="GitHub Stats" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=00000000&text_color=7a3f00&icon_color=ffd700&title_color=7a3f00" alt="GitHub Stats" height="170"/>
   </div>
   
   <div style="background: linear-gradient(135deg, #ffe259 0%, #fff9e6 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=gruvbox&hide_border=true&background=00000000&stroke=7a3f00&ring=ff8c00&fire=ff8c00&currStreakNum=7a3f00&sideNums=7a3f00&currStreakLabel=7a3f00&sideLabels=7a3f00&dates=b36b00" alt="GitHub Streak" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=gruvbox&hide_border=true&background=00000000&stroke=7a3f00&ring=ffd700&fire=ffd700&currStreakNum=7a3f00&sideNums=7a3f00&currStreakLabel=7a3f00&sideLabels=7a3f00&dates=b36b00" alt="GitHub Streak" height="170"/>
   </div>
 </div>
 
@@ -126,4 +126,3 @@
   
   <h3>"See you in the next commit!"</h3>
 </div> 
-
