@@ -1,13 +1,10 @@
-<div style="background-image: url('https://github.com/lolow2e/lolow2e/blob/main/public/my.gif?raw=true'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; padding: 20px; border-radius: 10px;">
-
 <div align="center">
+
+<img src="https://github.com/lolow2e/lolow2e/blob/main/public/my.gif?raw=true" width="100%" alt="Background Image">
 
 # 💫 3vil | Full-Stack Developer <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40">
 
 <img src="https://github.com/lolow2e/3vil/blob/main/public/123.jpg?raw=true" alt="Anime Coding Gif" width="450"/>
-
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3vil@example.com)
 
 <img src="https://i.imgur.com/DBGzSNI.png" width="600" alt="Anime Quote">
 
@@ -238,5 +235,3 @@ I'm a passionate developer creating digital experiences through code. Like an an
   
   <h3>"See you in the next commit!"</h3>
 </div> 
-
-</div>
