@@ -4,7 +4,7 @@
 
 <img src="https://github.com/lolow2e/3vil/blob/main/public/123.jpg?raw=true" alt="Anime Coding Gif" width="450"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3vil@example.com)
 
 <img src="https://i.imgur.com/DBGzSNI.png" width="600" alt="Anime Quote">
