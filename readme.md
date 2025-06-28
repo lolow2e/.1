@@ -105,12 +105,6 @@ My development philosophy is based on three principles:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
-## 🌟 Professional Goals
-
-- 🚀 Master new technologies in AI and machine learning
-- 🌐 Contribute to large-community open-source projects
-- 📚 Share knowledge through technical articles and presentations
-- 🏆 Create my own tech startup
 
 ## 📫 Contact Me
 
