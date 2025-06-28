@@ -34,7 +34,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g4_1.png?raw=true" alt="Tech Stack Power Levels" width="100%"/>
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/88.png?raw=true" alt="Tech Stack Power Levels" width="100%"/>
 </div>
 
 <div align="center">
@@ -124,5 +124,5 @@
   
   <img src="https://github.com/lolow2e/lolow2e/blob/main/public/cd.png?raw=true" width="300" alt="Goodbye Animation"/>
   
-  <h3>"See you in the next commit!"</h3>
+  <h3>"See you!"</h3>
 </div> 
