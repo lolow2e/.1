@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/lolow2e/lolow2e/blob/main/public/my.gif?raw=true" width="100%" alt="Background Image">
+
 
 # 💫 3vil | Full-Stack Developer <img src="https://github.com/lolow2e/3vil/blob/main/public/1245.png?raw=true?raw=true" width="40">
 
