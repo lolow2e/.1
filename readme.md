@@ -179,8 +179,8 @@ I'm a passionate developer creating digital experiences through code. Like an an
 ## 🔥 GitHub Stats <img src="https://i.imgur.com/mFSBO6r.gif" width="30">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=007bff&text_color=ffffff&icon_color=007bff" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true&background=00000000&ring=007bff&fire=ff4500&currStreakLabel=007bff" alt="GitHub Streak" height="170"/>
 </div>
 
 ## 🌟 Battle Stats <img src="https://i.imgur.com/uz1yQnG.gif" width="35">
@@ -235,3 +235,4 @@ I'm a passionate developer creating digital experiences through code. Like an an
   
   <h3>"See you in the next commit!"</h3>
 </div> 
+
