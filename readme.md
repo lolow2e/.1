@@ -73,67 +73,33 @@
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## <img src="https://i.imgur.com/Ib8FKe6.gif" width="35"> Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://i.imgur.com/Ni4uGsK.gif" width="25"> StreamVibe</h3>
-      <img src="https://i.imgur.com/8wVMZ8J.png" width="100%" alt="StreamVibe Project"/>
-      <p><strong>Movie and TV Series Streaming Platform</strong></p>
-      <p>Modern platform for watching movies and TV series with personalized recommendations, interactive UI, and multi-device support.</p>
-      <p><strong>Technologies:</strong> Next.js, React, TypeScript, Tailwind CSS, Redux, Node.js, MongoDB</p>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github" alt="GitHub Repository"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://i.imgur.com/qPuVnRi.gif" width="25"> FinTrack</h3>
-      <img src="https://i.imgur.com/OhioXt4.png" width="100%" alt="FinTrack Project"/>
-      <p><strong>Financial Management Application</strong></p>
-      <p>Personal finance tracker with expense analytics, budgeting, and data visualization for making financial decisions.</p>
-      <p><strong>Technologies:</strong> React, TypeScript, Tailwind CSS, Chart.js, Node.js, PostgreSQL</p>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github" alt="GitHub Repository"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://i.imgur.com/22Rdgid.gif" width="25"> TaskMaster</h3>
-      <img src="https://i.imgur.com/jpQYoXE.png" width="100%" alt="TaskMaster Project"/>
-      <p><strong>Project Management System</strong></p>
-      <p>Intuitive project management tool with team collaboration features, time tracking, and integration with popular services.</p>
-      <p><strong>Technologies:</strong> React, Next.js, TypeScript, Tailwind CSS, GraphQL, MongoDB</p>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github" alt="GitHub Repository"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://i.imgur.com/gLgFCur.gif" width="25"> EcoStore</h3>
-      <img src="https://i.imgur.com/N5tYBgK.png" width="100%" alt="EcoStore Project"/>
-      <p><strong>Eco-friendly Products Online Store</strong></p>
-      <p>Full-featured e-commerce website with shopping cart, payment processing, and product management system for selling eco-friendly products.</p>
-      <p><strong>Technologies:</strong> Next.js, React, TypeScript, Tailwind CSS, Stripe API, Node.js, PostgreSQL</p>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github" alt="GitHub Repository"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel" alt="Live Demo"/></a>
-    </td>
-  </tr>
-</table>
+## Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
-</div>
-
-## <img src="https://i.imgur.com/mFSBO6r.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <p>Coming soon...</p>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## <img src="https://i.imgur.com/0jEbsbc.gif" width="30"> Contact Me
+## GitHub Stats
+
+<div align="center">
+  <div style="background: linear-gradient(135deg, #ffe259 0%, #fff9e6 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=00000000&text_color=7a3f00&icon_color=ff8c00&title_color=7a3f00" alt="GitHub Stats" height="170"/>
+  </div>
+  
+  <div style="background: linear-gradient(135deg, #ffe259 0%, #fff9e6 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=gruvbox&hide_border=true&background=00000000&stroke=7a3f00&ring=ff8c00&fire=ff8c00&currStreakNum=7a3f00&sideNums=7a3f00&currStreakLabel=7a3f00&sideLabels=7a3f00&dates=b36b00" alt="GitHub Streak" height="170"/>
+  </div>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
+</div>
+
+## Contact Me
 
 <div align="center">
 
@@ -160,3 +126,4 @@
   
   <h3>"See you in the next commit!"</h3>
 </div> 
+
