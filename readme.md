@@ -19,17 +19,13 @@
   <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g2.png?raw=true" alt="Anime Banner" width="100%"/>
 </div>
 
-## <img src="https://i.imgur.com/MFYBg0h.gif" width="35"> About Me
-
-
-
-<div style="padding: 15px; border-left: 4px solid #FFD700; margin: 20px 0;">
-  <blockquote>
-    <i>"Programming isn't about what you know; it's about what you can figure out."</i>
-  </blockquote>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider" style="max-width: 100%;">
 </div>
 
-I'm a passionate developer creating digital experiences through code. Like an anime protagonist, I'm constantly evolving my skills, taking on new challenges, and pushing the boundaries of what's possible in web development.
+<div align="center">
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g3.png?raw=true" alt="About Me Banner" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
