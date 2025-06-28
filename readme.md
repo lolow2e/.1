@@ -2,7 +2,7 @@
 
 # 💫 3vil | Full-Stack Developer <img src="https://i.imgur.com/VH1ABpY.gif" width="40">
 
-<img src="https://i.imgur.com/qZUEI0a.gif" alt="Anime Coding Gif" width="450"/>
+<img src="https://github.com/lolow2e/3vil/blob/main/public/123.jpg?raw=true" alt="Anime Coding Gif" width="450"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
