@@ -31,87 +31,10 @@
   <img src="https://raw.githubusercontent.com/lolow2e/lolow2e/1267551da0ae8308534c4323a603101fdbf53257/public/divider.svg" width="100%" alt="Divider"/>
 </div>
 
-## <img src="https://i.imgur.com/o3XWBTZ.gif" width="35"> Tech Stack Power Levels
+
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/wvDwPix.png" width="100" alt="React">
-        <br>
-        <strong>React</strong>
-        <br>
-        <img src="https://i.imgur.com/AMcY1ZW.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>SSS Rank</strong>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/IydPjYV.png" width="100" alt="Next.js">
-        <br>
-        <strong>Next.js</strong>
-        <br>
-        <img src="https://i.imgur.com/HjsNXKG.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>SS Rank</strong>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/gxeRmT6.png" width="100" alt="TypeScript">
-        <br>
-        <strong>TypeScript</strong>
-        <br>
-        <img src="https://i.imgur.com/AMcY1ZW.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>SSS Rank</strong>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/lhdHkeO.png" width="100" alt="TailwindCSS">
-        <br>
-        <strong>Tailwind CSS</strong>
-        <br>
-        <img src="https://i.imgur.com/HjsNXKG.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>SS Rank</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/b6hOdyF.png" width="100" alt="Node.js">
-        <br>
-        <strong>Node.js</strong>
-        <br>
-        <img src="https://i.imgur.com/HjsNXKG.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>SS Rank</strong>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/8JBsKJO.png" width="100" alt="MongoDB">
-        <br>
-        <strong>MongoDB</strong>
-        <br>
-        <img src="https://i.imgur.com/lZTtipD.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>S Rank</strong>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/k6rRxvM.png" width="100" alt="Docker">
-        <br>
-        <strong>Docker</strong>
-        <br>
-        <img src="https://i.imgur.com/lZTtipD.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>S Rank</strong>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/KJP0Yot.png" width="100" alt="GraphQL">
-        <br>
-        <strong>GraphQL</strong>
-        <br>
-        <img src="https://i.imgur.com/KXiozPX.png" width="180" height="20" alt="Power Level">
-        <br>
-        <strong>A Rank</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/lolow2e/lolow2e/blob/main/public/g4.png?raw=true" alt="Tech Stack Power Levels" width="100%"/>
 </div>
 
 <div align="center">
