@@ -50,13 +50,7 @@ My development philosophy is based on three principles:
 
 </div>
 
-## 🏆 Professional Achievements
 
-- 📱 Developed and launched 10+ commercial web applications from scratch
-- ⚡ Improved an existing application's performance by 60% through React rendering optimization
-- 👥 Led a team of 5 developers in creating a large-scale SaaS platform
-- 🌐 Implemented international support in an application reaching users from 20+ countries
-- 📊 Optimized CI/CD processes, reducing deployment time by 45%
 
 ## 🎯 Projects
 
