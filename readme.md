@@ -30,8 +30,8 @@ Coming soon...
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3vil&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3vil&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolow2e&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lolow2e&theme=dark&hide_border=true)
 
 ## Contact Me
 
@@ -42,3 +42,4 @@ Coming soon...
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lolow2e&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) 
+
