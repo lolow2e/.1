@@ -41,5 +41,4 @@ Coming soon...
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=3vil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) 
-
+![Profile Views](https://komarev.com/ghpvc/?username=lolow2e&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) 
