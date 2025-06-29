@@ -37,7 +37,7 @@ Coming soon...
 
 [![Discord](https://img.shields.io/badge/Discord-@3vil3-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/3vil3)
 [![Telegram](https://img.shields.io/badge/Telegram-@Tg__3vil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tg_3vil)
-[![GitHub](https://img.shields.io/badge/GitHub-3vil-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3vil)
+[![GitHub](https://img.shields.io/badge/GitHub-lolow2e-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3vil)
 
 ---
 
